@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/jsmithonline82/README_GENERATOR/issues"
   },
-  "homepage": "https://github.com/jsmithonline82/README_GENERATOR#readme"
+  "homepage": "https://github.com/jsmithonline82/README_GENERATOR#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "inquirer": "^7.3.3"
+  }
 }
