@@ -1,0 +1,23 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "Package for Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmithonline82/README_GENERATOR.git"
+  },
+  "keywords": [
+    "read",
+    "me"
+  ],
+  "author": "Jackson Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsmithonline82/README_GENERATOR/issues"
+  },
+  "homepage": "https://github.com/jsmithonline82/README_GENERATOR#readme"
+}
