@@ -8,7 +8,7 @@ ${data.description}
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Licence](#Licence)
+- [License](#License)
 - [Contributors](#Contributors)
 - [Test](#Test)
 - [Repository Link](#Repository)
@@ -17,8 +17,8 @@ ${data.description}
         ${data.installation}
 ## Usage
 ${data.usage}
-## Licence
-${data.licence}
+## License
+${data.License}
 ## Contributors
 ${data.contributing}
 ## Test
