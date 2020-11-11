@@ -1,8 +1,8 @@
 
-# **dvf**
-dfvdfv
+# **Readme Generator**
+undefined
 ## Description 
-vdfv
+This is an app that uses node.js. It asks a series of questions and outputs a project readme file
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -13,19 +13,19 @@ vdfv
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-        dfvdf
+        To use this you need to have node.js installed. Follow this lik to download node https://nodejs.org/en/download/ and once its installed, navigate in terminal to this repo and run node index.js
 ## Usage
-dfvdf
+Use it to make a Readme
 ## Licence
-dfvd
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributors
-dfvdf
+Me, Jackson Smith
 ## Test
-dfvdfv
+I did
 ## Repository
-- [Project Repo](dfvdfv)
+- [Project Repo](https://github.com/jsmithonline82)
 ## GitHub
-![Image of me](https://avatars1.githubusercontent.com/u/4964044?v=4)
-- null
-- [GitHub Profile](https://github.com/dfvdfv)
+![Image of me](https://avatars2.githubusercontent.com/u/68339980?v=4)
+- Jackson Smith
+- [GitHub Profile](https://github.com/jsmithonline82)
 - <null>

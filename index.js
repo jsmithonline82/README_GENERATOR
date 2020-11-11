@@ -11,11 +11,6 @@ const questions = [
     },
     {
         type: "input",
-        name: "badge",
-        message: "Please provide the badges links that you want"
-    },
-    {
-        type: "input",
         name: "description",
         message: "Please provide your project's description"
     },
@@ -42,7 +37,7 @@ const questions = [
     {
         type: "input",
         name: "test",
-        message: "Please provide the project tests"
+        message: "Who did your tests?"
     },
     {
         type: "input",
