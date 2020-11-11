@@ -1,9 +1,6 @@
 # Unit 09 Node.js and ES6+ Homework: Good README Generator
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/dqYJK-OVpRE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
+[![https://github.com/jsmithonline82/README_GENERATOR/blob/main/Screen%20Shot%202020-11-10%20at%2011.29.57%20PM.png](http://img.youtube.com/vi/dqYJK-OVpRE/0.jpg)](http://www.youtube.com/watch?v=dqYJK-OVpRE "README")
 
 
 
